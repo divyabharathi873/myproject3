@@ -1,0 +1,8 @@
+C:\Users\divya\source\repos\Amazon\bin\Debug\Amazon.exe.config
+C:\Users\divya\source\repos\Amazon\bin\Debug\Amazon.exe
+C:\Users\divya\source\repos\Amazon\bin\Debug\Amazon.pdb
+C:\Users\divya\source\repos\Amazon\obj\Debug\Amazon.csproj.AssemblyReference.cache
+C:\Users\divya\source\repos\Amazon\obj\Debug\Amazon.csproj.SuggestedBindingRedirects.cache
+C:\Users\divya\source\repos\Amazon\obj\Debug\Amazon.csproj.CoreCompileInputs.cache
+C:\Users\divya\source\repos\Amazon\obj\Debug\Amazon.exe
+C:\Users\divya\source\repos\Amazon\obj\Debug\Amazon.pdb
